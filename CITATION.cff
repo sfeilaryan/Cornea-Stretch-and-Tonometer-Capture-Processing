@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "Extracting Cornea Energy Proxy from Tonometer Captures"
+authors:
+  - family-names: "Sfeila"
+    given-names: "Ryan"
+date-released: 2024-08-03
+url: "https://github.com/sfeilaryan/Cornea-Stretch-and-Tonometer-Capture-Processing"
+license: "BSD-3-Clause"
