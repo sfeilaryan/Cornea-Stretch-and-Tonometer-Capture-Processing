@@ -6,6 +6,20 @@ The repository is dedicated to outlining a project I've worked on under the supe
 
 We present below a copy of its abstract as a synopsis along with a brief description of what the repo contains so far and upcoming developments.
 
+## Citation
+
+If you use this software in your research, please cite it as follows:
+
+```bibtex
+@software{sfeila_ryan_2024,
+  author = {Ryan Sfeila},
+  title = {Extracting Cornea Energy Proxy from Tonometer Captures},
+  year = {2024},
+  url = {https://github.com/sfeilaryan/Cornea-Stretch-and-Tonometer-Capture-Processing},
+  license = {BSD-3-Clause}
+}
+```
+
 ## Synopsis
 
 This project comes after the statistical analysis done by Wu Yifan under Professor Jean-Marc Allain's supervision on tonometer captures from ophthalmologists containing movies of human patient corneas subjected to air puffs for an exam typically done to recover the intra-ocular pressure. The dataset contains healthy corneas and corneas diagnosed with keratoconus disease. The goal of this project is to build upon the image processing and superficial statistical measures of thickness and characteristic lengths extracted from the videos to try and extract an energy evolution of the corneas using discretization and exclusively the tonometer captures with no further information on experimental control parameters.
