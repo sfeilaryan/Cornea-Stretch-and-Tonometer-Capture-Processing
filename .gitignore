@@ -5,3 +5,11 @@
 **/*FRAMES/
 **/Data/
 **/.DS_Store
+**/.venv/
+**/*.toc
+**/*.gz
+**/*.out
+**/*.aux
+**/*.clo
+**/*.cls
+**/*.log

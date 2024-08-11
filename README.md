@@ -2,7 +2,7 @@
 
 The repository is dedicated to outlining a project I've worked on under the supervision of Professor Jean-Marc Allain at École Polytechnique. 
 
-#### The main component of this repository is the project report.
+#### The main component of this repository is the project report, available in LaTeX and PDF form in the Project Report Directory.
 
 We present below a copy of its abstract as a synopsis along with a brief description of what the repo contains so far and upcoming developments.
 
@@ -24,9 +24,13 @@ If you use this software in your research, please cite it as follows:
 
 This project comes after the statistical analysis done by Wu Yifan under Professor Jean-Marc Allain's supervision on tonometer captures from ophthalmologists containing movies of human patient corneas subjected to air puffs for an exam typically done to recover the intra-ocular pressure. The dataset contains healthy corneas and corneas diagnosed with keratoconus disease. The goal of this project is to build upon the image processing and superficial statistical measures of thickness and characteristic lengths extracted from the videos to try and extract an energy evolution of the corneas using discretization and exclusively the tonometer captures with no further information on experimental control parameters.
 
+### Note: Code that is no longer useful and generated data that may be interesting but is no longer relevant in light of the latest developments of the project are all moved to Project Files -> Archived and Deprecated.
+
 ## Upcoming Changes
 
-The test with the vector along which to slide edge segments.
+- The test with the vector along which to slide edge segments.
+
+- Rewriting of the functions to generate waveform and potential distribution movies
 
 ## Potential Implementation
 
