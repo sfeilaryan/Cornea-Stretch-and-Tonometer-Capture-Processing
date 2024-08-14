@@ -11,11 +11,12 @@ We present below a copy of its abstract as a synopsis along with a brief descrip
 If you use this software in your research, please cite it as follows:
 
 ```bibtex
-@software{sfeila_ryan_2024,
+@misc{sfeila_2024,
   author = {Ryan Sfeila},
   title = {Extracting Cornea Energy Proxy from Tonometer Captures},
   year = {2024},
   url = {https://github.com/sfeilaryan/Cornea-Stretch-and-Tonometer-Capture-Processing},
+  supervisor = {Jean-Marc Allain},
   license = {BSD-3-Clause}
 }
 ```
