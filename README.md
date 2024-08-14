@@ -8,7 +8,7 @@ We present below a copy of its abstract as a synopsis along with a brief descrip
 
 ## Citation
 
-If you use this software in your research, please cite it as follows:
+If you use this report or the provided scripts in your research, please cite them using the following metadata.
 
 ```bibtex
 @misc{sfeila_2024,
